@@ -1,0 +1,6 @@
+Flask
+Flask-Login
+Flask-WTF
+bcrypt
+jsonschema
+json==2.0.9

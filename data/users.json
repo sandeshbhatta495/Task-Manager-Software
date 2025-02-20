@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "$2b$12$KIXQ8Z1H1Z5H1Z5H1Z5H1O"
+    },
+    {
+      "username": "user2",
+      "password": "$2b$12$KIXQ8Z1H1Z5H1Z5H1Z5H1O"
+    }
+  ]
+}
